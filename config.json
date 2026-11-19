@@ -5,5 +5,11 @@
   "timezone": "America/Los_Angeles",
   "weekStartsOn": 1,
   "trackFrom": "2026-11-01",
-  "players": []
+  "players": [
+    { "riotId": "UCLA C43#amg", "name": "C43" },
+    { "riotId": "UCLA duv#rfrmd", "name": "duv" },
+    { "riotId": "UCLA fraqai#1111", "name": "fraqai" },
+    { "riotId": "UCLA Salju#KOR", "name": "Salju" },
+    { "riotId": "レッサーパンダ#033", "name": "レッサーパンダ" }
+  ]
 }
