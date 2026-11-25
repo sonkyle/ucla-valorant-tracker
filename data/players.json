@@ -1,1 +1,42 @@
-{}
+{
+  "ucla c43#amg": {
+    "riotId": "UCLA C43#amg",
+    "puuid": "0fdceeec-bee5-5ac5-94e7-c503836250ab",
+    "peak": {"tier":25,"rr":0,"season":"e6a3"},
+    "rrBackfilled": true,
+    "matchesBackfilled": true,
+    "backfilledFrom": 1793516400000
+  },
+  "ucla duv#rfrmd": {
+    "riotId": "UCLA duv#rfrmd",
+    "puuid": "6de3fa4a-5f47-56b5-962b-89916121dd10",
+    "peak": {"tier":26,"rr":0,"season":"e10a5"},
+    "rrBackfilled": true,
+    "matchesBackfilled": true,
+    "backfilledFrom": 1793516400000
+  },
+  "ucla fraqai#1111": {
+    "riotId": "UCLA fraqai#1111",
+    "puuid": "fb22cadc-a18b-5e77-8c49-865672fe740c",
+    "peak": {"tier":25,"rr":0,"season":"e11a5"},
+    "rrBackfilled": true,
+    "matchesBackfilled": true,
+    "backfilledFrom": 1793516400000
+  },
+  "ucla salju#kor": {
+    "riotId": "UCLA Salju#KOR",
+    "puuid": "7aa86a74-a87e-53f1-b4fa-918d2f851449",
+    "peak": {"tier":23,"rr":0,"season":"e10a3"},
+    "rrBackfilled": true,
+    "matchesBackfilled": true,
+    "backfilledFrom": 1793516400000
+  },
+  "レッサーパンダ#033": {
+    "riotId": "レッサーパンダ#033",
+    "puuid": "4f51acdd-5b97-5d38-93f7-e474dd85045b",
+    "peak": {"tier":26,"rr":0,"season":"e7a3"},
+    "rrBackfilled": true,
+    "matchesBackfilled": true,
+    "backfilledFrom": 1793516400000
+  }
+}

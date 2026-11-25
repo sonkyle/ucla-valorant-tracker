@@ -4,7 +4,7 @@
   "timezone": "America/Los_Angeles",
   "rankedQueue": "competitive",
   "queueNames": {},
-  "latestActivity": null,
+  "latestActivity": 1795588558457,
   "agentIcons": [
     "0e38b510-41a8-5780-5e8f-568b2a4f2d6c",
     "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -38,17 +38,26 @@
     "f94c3b30-42be-e959-889c-5aa313dba261"
   ],
   "mapIcons": [
+    "12452a9d-48c3-0b02-e7eb-0381c3520404",
     "1c18ab1f-420d-0d8b-71d0-77ad3c439115",
+    "1c7555fc-4bc6-3b98-9674-789d47ef6c50",
     "224b0a95-48b9-f703-1bd8-67aca101a61f",
     "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047",
+    "2c09d728-42d5-30d8-43dc-96a05cc7ee9d",
     "2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba",
     "2fb9a4fd-47b8-4e7d-a969-74b4046ebd53",
     "2fe4ed3a-450a-948b-6d6b-e89a78e680a9",
+    "690b3ed2-4dff-945b-8223-6da834e30d24",
     "756da597-416b-c0f2-f47b-afbdf28670bc",
     "7eaecc1b-4337-bbf6-6ab9-04b8f06b3319",
     "92584fbe-486a-b1b2-9faa-39b0f486b498",
+    "a264de0f-4a04-9c78-c97a-a6b192ce6e86",
+    "a9009649-421f-d5d5-f80c-0cbe02c125bb",
     "b529448b-4d60-346e-e89e-00a4c527a405",
+    "d6336a5a-428f-c591-98db-c8a291159134",
     "d960549e-485c-e861-8d71-aa9d1aed12a2",
+    "dd3a1cd9-41b1-50ea-3bd6-a7bb3c5978bd",
+    "de28aa9b-4cbe-1003-320e-6cb3ec309557",
     "e2ad5c54-4114-a870-9641-8ea21279579a",
     "fd267378-4d1d-484f-ff52-77821ed10dc2"
   ],
@@ -123,15 +132,99 @@
     "756da597-416b-c0f2-f47b-afbdf28670bc": "Summit",
     "e2ad5c54-4114-a870-9641-8ea21279579a": "Icebox",
     "1c18ab1f-420d-0d8b-71d0-77ad3c439115": "Corrode",
-    "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047": "Haven"
+    "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047": "Haven",
+    "d6336a5a-428f-c591-98db-c8a291159134": "Glitch",
+    "690b3ed2-4dff-945b-8223-6da834e30d24": "District",
+    "2c09d728-42d5-30d8-43dc-96a05cc7ee9d": "Drift",
+    "12452a9d-48c3-0b02-e7eb-0381c3520404": "Kasbah",
+    "de28aa9b-4cbe-1003-320e-6cb3ec309557": "Piazza",
+    "a9009649-421f-d5d5-f80c-0cbe02c125bb": "Skirmish A",
+    "dd3a1cd9-41b1-50ea-3bd6-a7bb3c5978bd": "Gauntlet",
+    "a264de0f-4a04-9c78-c97a-a6b192ce6e86": "Skirmish C",
+    "1c7555fc-4bc6-3b98-9674-789d47ef6c50": "Skirmish D"
   },
   "weeks": [
+    {
+      "key": "2026-11-23",
+      "start": 1795420800000,
+      "end": 1796025600000,
+      "num": null
+    },
     {
       "key": "2026-11-16",
       "start": 1794816000000,
       "end": 1795420800000,
       "num": null
+    },
+    {
+      "key": "2026-11-09",
+      "start": 1794211200000,
+      "end": 1794816000000,
+      "num": null
+    },
+    {
+      "key": "2026-11-02",
+      "start": 1793606400000,
+      "end": 1794211200000,
+      "num": null
+    },
+    {
+      "key": "2026-10-26",
+      "start": 1792998000000,
+      "end": 1793606400000,
+      "num": null
     }
   ],
-  "players": []
+  "players": [
+    {
+      "slug": "c43",
+      "name": "C43",
+      "riotId": "UCLA C43#amg",
+      "current": {"tier":23,"rr":14},
+      "peak": {"tier":25,"rr":0,"season":"e6a3"},
+      "trackedSince": 1795588558457,
+      "weeks": {"2026-11-23":{"rr":0,"missing":0,"ranked":{"games":0,"wins":0,"losses":0,"draws":0,"kills":0,"deaths":0,"assists":0,"score":0,"rounds":0,"dmg":0,"hs":0,"shots":0},"otherGames":2,"endRank":{"tier":23,"rr":14}},"2026-11-16":{"rr":-6,"missing":0,"ranked":{"games":8,"wins":4,"losses":4,"draws":0,"kills":167,"deaths":111,"assists":20,"score":45532,"rounds":170,"dmg":30297,"hs":131,"shots":317},"otherGames":15,"endRank":{"tier":23,"rr":14}},"2026-11-09":{"rr":20,"missing":0,"ranked":{"games":2,"wins":1,"losses":0,"draws":1,"kills":49,"deaths":44,"assists":12,"score":14137,"rounds":66,"dmg":9557,"hs":38,"shots":113},"otherGames":2,"endRank":{"tier":23,"rr":11}},"2026-11-02":{"rr":0,"missing":0,"ranked":{"games":0,"wins":0,"losses":0,"draws":0,"kills":0,"deaths":0,"assists":0,"score":0,"rounds":0,"dmg":0,"hs":0,"shots":0},"otherGames":6,"endRank":null},"2026-10-26":{"rr":null,"missing":0,"ranked":{"games":0,"wins":0,"losses":0,"draws":0,"kills":0,"deaths":0,"assists":0,"score":0,"rounds":0,"dmg":0,"hs":0,"shots":0},"otherGames":0,"endRank":null}},
+      "history": [[1794549726887,1991,22],[1794549726888,2010,23],[1794622313034,2011,23],[1794886401350,2029,23],[1794978888327,2009,23],[1795065729630,2000,23],[1795067603219,1980,22],[1795140830050,1998,22],[1795143120762,2016,23],[1795299124460,2033,23],[1795300973426,2014,23]]
+    },
+    {
+      "slug": "duv",
+      "name": "duv",
+      "riotId": "UCLA duv#rfrmd",
+      "current": {"tier":25,"rr":139},
+      "peak": {"tier":26,"rr":0,"season":"e10a5"},
+      "trackedSince": 1795588558457,
+      "weeks": {"2026-11-23":{"rr":0,"missing":0,"ranked":{"games":0,"wins":0,"losses":0,"draws":0,"kills":0,"deaths":0,"assists":0,"score":0,"rounds":0,"dmg":0,"hs":0,"shots":0},"otherGames":5,"endRank":{"tier":25,"rr":139}},"2026-11-16":{"rr":121,"missing":0,"ranked":{"games":24,"wins":15,"losses":7,"draws":2,"kills":455,"deaths":362,"assists":198,"score":129049,"rounds":532,"dmg":88219,"hs":373,"shots":1257},"otherGames":21,"endRank":{"tier":25,"rr":139}},"2026-11-09":{"rr":-63,"missing":0,"ranked":{"games":19,"wins":8,"losses":11,"draws":0,"kills":303,"deaths":287,"assists":83,"score":84360,"rounds":397,"dmg":56387,"hs":247,"shots":676},"otherGames":12,"endRank":{"tier":24,"rr":18}},"2026-11-02":{"rr":-95,"missing":30,"ranked":{"games":52,"wins":23,"losses":29,"draws":0,"kills":900,"deaths":804,"assists":267,"score":255689,"rounds":1132,"dmg":172551,"hs":687,"shots":2109},"otherGames":34,"endRank":{"tier":24,"rr":17}},"2026-10-26":{"rr":-74,"missing":2,"ranked":{"games":11,"wins":4,"losses":7,"draws":0,"kills":134,"deaths":165,"assists":68,"score":39285,"rounds":219,"dmg":27490,"hs":126,"shots":391},"otherGames":5,"endRank":{"tier":25,"rr":133}}},
+      "history": [[1793580843419,2307,25],[1793580843420,2288,25],[1793582820776,2266,25],[1793584500228,2244,25],[1793586782632,2225,25],[1793589288488,2242,25],[1793599759479,2223,25],[1793602381648,2240,25],[1793604668564,2257,25],[1793606255376,2233,25],[1793607893288,2210,25],[1793609709976,2189,24],[1793611894451,2205,25],[1793613986013,2221,25],[1793666447901,2201,25],[1793669008897,2181,24],[1793670907413,2161,24],[1793672949761,2179,24],[1793683872837,2195,24],[1793686275191,2211,25],[1793688260401,2227,25],[1794045582167,2117,24],[1794048272874,2100,24],[1794055188049,2082,23],[1794058053965,2064,23],[1794060396718,2082,23],[1794062646688,2110,24],[1794065505047,2100,24],[1794069665068,2117,24],[1794556423639,2118,24],[1794558487474,2135,24],[1794561472579,2152,24],[1794610489707,2133,24],[1794613247514,2150,24],[1794614741524,2129,24],[1794616550520,2147,24],[1794618586316,2128,24],[1794621127385,2148,24],[1794636601836,2167,24],[1794639640922,2150,24],[1794641437618,2129,24],[1794800146818,2111,24],[1794802099174,2100,24],[1794807708368,2082,23],[1794809370179,2110,24],[1794810777287,2100,24],[1794813067787,2118,24],[1794817043362,2135,24],[1794826481070,2153,24],[1794864749743,2171,24],[1794866632016,2189,24],[1794870686928,2170,24],[1794873180589,2152,24],[1794878487410,2133,24],[1794880225749,2153,24],[1794883387091,2171,24],[1795065243678,2153,24],[1795068101112,2135,24],[1795070149848,2153,24],[1795076827869,2166,24],[1795157266619,2183,24],[1795226747597,2164,24],[1795228435748,2141,24],[1795230574894,2158,24],[1795232718718,2175,24],[1795236788733,2196,24],[1795239826646,2213,25],[1795243816588,2226,25],[1795246197198,2239,25]]
+    },
+    {
+      "slug": "fraqai",
+      "name": "fraqai",
+      "riotId": "UCLA fraqai#1111",
+      "current": {"tier":24,"rr":2},
+      "peak": {"tier":25,"rr":0,"season":"e11a5"},
+      "trackedSince": 1795588558457,
+      "weeks": {"2026-11-23":{"rr":0,"missing":0,"ranked":{"games":0,"wins":0,"losses":0,"draws":0,"kills":0,"deaths":0,"assists":0,"score":0,"rounds":0,"dmg":0,"hs":0,"shots":0},"otherGames":4,"endRank":{"tier":24,"rr":2}},"2026-11-16":{"rr":-61,"missing":0,"ranked":{"games":5,"wins":1,"losses":4,"draws":0,"kills":71,"deaths":89,"assists":48,"score":21036,"rounds":114,"dmg":14270,"hs":71,"shots":188},"otherGames":42,"endRank":{"tier":24,"rr":2}},"2026-11-09":{"rr":37,"missing":0,"ranked":{"games":2,"wins":2,"losses":0,"draws":0,"kills":41,"deaths":31,"assists":12,"score":11224,"rounds":40,"dmg":7033,"hs":37,"shots":79},"otherGames":15,"endRank":{"tier":24,"rr":63}},"2026-11-02":{"rr":-67,"missing":0,"ranked":{"games":7,"wins":2,"losses":5,"draws":0,"kills":105,"deaths":109,"assists":53,"score":29535,"rounds":149,"dmg":19615,"hs":102,"shots":258},"otherGames":31,"endRank":{"tier":24,"rr":26}},"2026-10-26":{"rr":32,"missing":0,"ranked":{"games":2,"wins":2,"losses":0,"draws":0,"kills":45,"deaths":30,"assists":21,"score":12310,"rounds":47,"dmg":8099,"hs":40,"shots":138},"otherGames":0,"endRank":{"tier":24,"rr":93}}},
+      "history": [[1793599729814,2161,24],[1793599729815,2177,24],[1793602143379,2193,24],[1793653022746,2174,24],[1793654899357,2191,24],[1793657532399,2171,24],[1793745440541,2187,24],[1793754941649,2167,24],[1793929873822,2145,24],[1793932464890,2126,24],[1794610606828,2146,24],[1794613455344,2163,24],[1794886532443,2144,24],[1795143574166,2124,24],[1795146116130,2141,24],[1795161798707,2121,24],[1795395349732,2102,24]]
+    },
+    {
+      "slug": "salju",
+      "name": "Salju",
+      "riotId": "UCLA Salju#KOR",
+      "current": {"tier":23,"rr":17},
+      "peak": {"tier":23,"rr":0,"season":"e10a3"},
+      "trackedSince": 1795588558457,
+      "weeks": {"2026-11-23":{"rr":0,"missing":0,"ranked":{"games":0,"wins":0,"losses":0,"draws":0,"kills":0,"deaths":0,"assists":0,"score":0,"rounds":0,"dmg":0,"hs":0,"shots":0},"otherGames":1,"endRank":{"tier":23,"rr":17}},"2026-11-16":{"rr":12,"missing":0,"ranked":{"games":7,"wins":4,"losses":3,"draws":0,"kills":90,"deaths":84,"assists":47,"score":25758,"rounds":129,"dmg":17042,"hs":69,"shots":223},"otherGames":33,"endRank":{"tier":23,"rr":17}},"2026-11-09":{"rr":0,"missing":0,"ranked":{"games":0,"wins":0,"losses":0,"draws":0,"kills":0,"deaths":0,"assists":0,"score":0,"rounds":0,"dmg":0,"hs":0,"shots":0},"otherGames":10,"endRank":null},"2026-11-02":{"rr":0,"missing":0,"ranked":{"games":0,"wins":0,"losses":0,"draws":0,"kills":0,"deaths":0,"assists":0,"score":0,"rounds":0,"dmg":0,"hs":0,"shots":0},"otherGames":53,"endRank":null},"2026-10-26":{"rr":null,"missing":0,"ranked":{"games":0,"wins":0,"losses":0,"draws":0,"kills":0,"deaths":0,"assists":0,"score":0,"rounds":0,"dmg":0,"hs":0,"shots":0},"otherGames":0,"endRank":null}},
+      "history": [[1794885422012,2000,23],[1794885422013,2016,23],[1794977996469,2038,23],[1794979685193,2061,23],[1794981261250,2038,23],[1795138395516,2015,23],[1795143574166,2000,23],[1795146116130,2017,23]]
+    },
+    {
+      "slug": "player",
+      "name": "レッサーパンダ",
+      "riotId": "レッサーパンダ#033",
+      "current": {"tier":25,"rr":100},
+      "peak": {"tier":26,"rr":0,"season":"e7a3"},
+      "trackedSince": 1795588558457,
+      "weeks": {"2026-11-23":{"rr":25,"missing":0,"ranked":{"games":11,"wins":8,"losses":3,"draws":0,"kills":225,"deaths":147,"assists":82,"score":62722,"rounds":227,"dmg":40971,"hs":175,"shots":700},"otherGames":0,"endRank":{"tier":25,"rr":100}},"2026-11-16":{"rr":-22,"missing":0,"ranked":{"games":18,"wins":10,"losses":8,"draws":0,"kills":242,"deaths":254,"assists":112,"score":69463,"rounds":349,"dmg":45429,"hs":192,"shots":679},"otherGames":1,"endRank":{"tier":24,"rr":75}},"2026-11-09":{"rr":22,"missing":0,"ranked":{"games":6,"wins":4,"losses":2,"draws":0,"kills":77,"deaths":93,"assists":38,"score":22034,"rounds":117,"dmg":14606,"hs":60,"shots":223},"otherGames":1,"endRank":{"tier":24,"rr":30}},"2026-11-02":{"rr":0,"missing":0,"ranked":{"games":0,"wins":0,"losses":0,"draws":0,"kills":0,"deaths":0,"assists":0,"score":0,"rounds":0,"dmg":0,"hs":0,"shots":0},"otherGames":6,"endRank":null},"2026-10-26":{"rr":null,"missing":0,"ranked":{"games":0,"wins":0,"losses":0,"draws":0,"kills":0,"deaths":0,"assists":0,"score":0,"rounds":0,"dmg":0,"hs":0,"shots":0},"otherGames":0,"endRank":null}},
+      "history": [[1794261242122,2101,24],[1794261242123,2117,24],[1794299322869,2100,24],[1794301402032,2118,24],[1794303917750,2134,24],[1794305843995,2151,24],[1794307456412,2130,24],[1794908357614,2146,24],[1794910317878,2123,24],[1794912154066,2100,24],[1794916235558,2116,24],[1794918566603,2100,24],[1795157296493,2116,24],[1795159510622,2132,24],[1795161327227,2110,24],[1795163169346,2100,24],[1795165341454,2115,24],[1795167250145,2100,24],[1795169068178,2119,24],[1795171416105,2133,24],[1795217359542,2149,24],[1795219500974,2164,24],[1795416668607,2159,24],[1795418666360,2175,24],[1795420931833,2154,24],[1795422875159,2131,24],[1795429338279,2142,24],[1795431254592,2153,24],[1795433533712,2164,24],[1795436088807,2174,24],[1795507103502,2185,24],[1795509303913,2168,24],[1795512015763,2179,24],[1795514855955,2189,24],[1795516860263,2200,25]]
+    }
+  ]
 }
