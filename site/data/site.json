@@ -4,7 +4,7 @@
   "timezone": "America/Los_Angeles",
   "rankedQueue": "competitive",
   "queueNames": {},
-  "latestActivity": 1795614320465,
+  "latestActivity": 1795642609765,
   "agentIcons": [
     "0e38b510-41a8-5780-5e8f-568b2a4f2d6c",
     "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -203,7 +203,7 @@
       "current": {"tier":24,"rr":2},
       "peak": {"tier":25,"rr":0,"season":"e11a5"},
       "trackedSince": 1795588558457,
-      "weeks": {"2026-11-23":{"rr":0,"missing":0,"ranked":{"games":0,"wins":0,"losses":0,"draws":0,"kills":0,"deaths":0,"assists":0,"score":0,"rounds":0,"dmg":0,"hs":0,"shots":0},"otherGames":4,"endRank":{"tier":24,"rr":2}},"2026-11-16":{"rr":-61,"missing":0,"ranked":{"games":5,"wins":1,"losses":4,"draws":0,"kills":71,"deaths":89,"assists":48,"score":21036,"rounds":114,"dmg":14270,"hs":71,"shots":188},"otherGames":42,"endRank":{"tier":24,"rr":2}},"2026-11-09":{"rr":37,"missing":0,"ranked":{"games":2,"wins":2,"losses":0,"draws":0,"kills":41,"deaths":31,"assists":12,"score":11224,"rounds":40,"dmg":7033,"hs":37,"shots":79},"otherGames":15,"endRank":{"tier":24,"rr":63}},"2026-11-02":{"rr":-67,"missing":0,"ranked":{"games":7,"wins":2,"losses":5,"draws":0,"kills":105,"deaths":109,"assists":53,"score":29535,"rounds":149,"dmg":19615,"hs":102,"shots":258},"otherGames":31,"endRank":{"tier":24,"rr":26}},"2026-10-26":{"rr":32,"missing":0,"ranked":{"games":2,"wins":2,"losses":0,"draws":0,"kills":45,"deaths":30,"assists":21,"score":12310,"rounds":47,"dmg":8099,"hs":40,"shots":138},"otherGames":0,"endRank":{"tier":24,"rr":93}}},
+      "weeks": {"2026-11-23":{"rr":0,"missing":0,"ranked":{"games":0,"wins":0,"losses":0,"draws":0,"kills":0,"deaths":0,"assists":0,"score":0,"rounds":0,"dmg":0,"hs":0,"shots":0},"otherGames":6,"endRank":{"tier":24,"rr":2}},"2026-11-16":{"rr":-61,"missing":0,"ranked":{"games":5,"wins":1,"losses":4,"draws":0,"kills":71,"deaths":89,"assists":48,"score":21036,"rounds":114,"dmg":14270,"hs":71,"shots":188},"otherGames":42,"endRank":{"tier":24,"rr":2}},"2026-11-09":{"rr":37,"missing":0,"ranked":{"games":2,"wins":2,"losses":0,"draws":0,"kills":41,"deaths":31,"assists":12,"score":11224,"rounds":40,"dmg":7033,"hs":37,"shots":79},"otherGames":15,"endRank":{"tier":24,"rr":63}},"2026-11-02":{"rr":-67,"missing":0,"ranked":{"games":7,"wins":2,"losses":5,"draws":0,"kills":105,"deaths":109,"assists":53,"score":29535,"rounds":149,"dmg":19615,"hs":102,"shots":258},"otherGames":31,"endRank":{"tier":24,"rr":26}},"2026-10-26":{"rr":32,"missing":0,"ranked":{"games":2,"wins":2,"losses":0,"draws":0,"kills":45,"deaths":30,"assists":21,"score":12310,"rounds":47,"dmg":8099,"hs":40,"shots":138},"otherGames":0,"endRank":{"tier":24,"rr":93}}},
       "history": [[1793599729814,2161,24],[1793599729815,2177,24],[1793602143379,2193,24],[1793653022746,2174,24],[1793654899357,2191,24],[1793657532399,2171,24],[1793745440541,2187,24],[1793754941649,2167,24],[1793929873822,2145,24],[1793932464890,2126,24],[1794610606828,2146,24],[1794613455344,2163,24],[1794886532443,2144,24],[1795143574166,2124,24],[1795146116130,2141,24],[1795161798707,2121,24],[1795395349732,2102,24]]
     },
     {
