@@ -13,7 +13,9 @@
     "ebd01b69-1ffe-4698-b381-db77d14b7dee": {"t":1795590209121,"tier":23,"rr":54,"change":19,"before":23},
     "f89907da-bc90-4b49-a9ed-7aeaad88360c": {"t":1795588528821,"tier":23,"rr":35,"change":21,"before":23},
     "939c741b-ef8f-4f82-9dde-18adf80b5628": {"t":1795658298867,"tier":23,"rr":49,"change":17,"before":23},
-    "a3be9a30-7f9c-47cf-b65e-42b39d1368eb": {"t":1795656390468,"tier":23,"rr":32,"change":-22,"before":23}
+    "a3be9a30-7f9c-47cf-b65e-42b39d1368eb": {"t":1795656390468,"tier":23,"rr":32,"change":-22,"before":23},
+    "0c7a8b67-ee33-4d0b-9b21-3d2243c694c5": {"t":1795671286791,"tier":23,"rr":8,"change":-22,"before":23},
+    "85c3c775-8179-48d4-b85e-f233bfeae2e0": {"t":1795668651717,"tier":23,"rr":30,"change":-19,"before":23}
   },
   "6de3fa4a-5f47-56b5-962b-89916121dd10": {
     "a4a03c87-f62d-46eb-9cbb-9ee38b56ef92": {"t":1795244181198,"tier":25,"rr":139,"change":13,"before":25},
@@ -164,6 +166,7 @@
     "b0e5fc58-ff35-4b9c-98d9-cb04a90d7deb": {"t":1795658266479,"tier":24,"rr":13,"change":-22,"before":24},
     "e41dc354-7a5b-4e63-8eb7-abe82886d0d9": {"t":1795656256643,"tier":24,"rr":35,"change":15,"before":24},
     "a1cba70f-f63e-4912-9edf-83b36f565519": {"t":1795654294191,"tier":24,"rr":20,"change":-21,"before":24},
-    "cc874abf-4204-4022-8c3b-734cc6efc5dc": {"t":1795652093858,"tier":24,"rr":41,"change":-21,"before":24}
+    "cc874abf-4204-4022-8c3b-734cc6efc5dc": {"t":1795652093858,"tier":24,"rr":41,"change":-21,"before":24},
+    "361f9c42-2e30-44ad-bec7-3f80b1dacb5f": {"t":1795701358410,"tier":24,"rr":30,"change":14,"before":24}
   }
 }
